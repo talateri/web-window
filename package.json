@@ -1,5 +1,5 @@
 {
-  "name": "web-window",
+  "name": "web-window-pure",
   "version": "0.0.1",
   "description": "web window create",
   "main": "index.js",
