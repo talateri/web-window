@@ -1,0 +1,23 @@
+{
+  "name": "web-window",
+  "version": "0.0.1",
+  "description": "web window create",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talateri/web-window.git"
+  },
+  "keywords": [
+    "window",
+    "web"
+  ],
+  "author": "Talat Eri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talateri/web-window/issues"
+  },
+  "homepage": "https://github.com/talateri/web-window#readme"
+}
